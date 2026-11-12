@@ -34,3 +34,4 @@ footer{border-top:1px solid var(--line);padding:18px 0 30px;font-size:.9rem;colo
 @media (prefers-color-scheme:dark){:root{--bg:#1b1917;--fg:#eee;--muted:#aaa;--card:#24211e;--line:#3a3530}.top,.toc,.btn.alt{background:#24211e}nav a,.brand{color:var(--fg)}code{background:#333}.ph{background:#333}}
 
 .badge{display:inline-block;margin-top:6px;padding:2px 8px;border-radius:999px;background:#fff1e6;color:#c2410c;border:1px solid #fdba74;font-size:.75rem;font-weight:600}
+.dslink{margin:8px 0 0;font-size:.85rem}.tile h3 a{color:inherit;text-decoration:none}
