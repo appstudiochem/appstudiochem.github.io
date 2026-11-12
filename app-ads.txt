@@ -1,0 +1,5 @@
+# app-ads.txt für ChemKor App Studio (Google AdMob)
+# PLATZHALTER: pub-XXXXXXXXXXXXXXXX durch die eigene Publisher-ID aus AdMob ersetzen
+# (AdMob -> Einstellungen -> Kontoinformationen -> Publisher-ID) und das '#' vor der Zeile entfernen.
+# Diese Datei muss im Hauptverzeichnis der Domain liegen, die in Google Play als Entwickler-Website eingetragen ist.
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
