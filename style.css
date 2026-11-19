@@ -31,6 +31,7 @@ a.tile:hover{border-color:var(--acc)}
 .toc{background:#fff;border:1px solid var(--line);border-radius:10px;padding:10px 14px;font-size:.95rem}
 code{background:#f1ebe5;padding:1px 5px;border-radius:4px;font-size:.9em}
 footer{border-top:1px solid var(--line);padding:18px 0 30px;font-size:.9rem;color:var(--muted);text-align:center}
+.legal-box{background:var(--card);border:2px solid var(--acc);border-radius:12px;padding:14px 16px;margin:1.2em 0}.legal-box h2,.legal-box h3{margin-top:0}
 @media (prefers-color-scheme:dark){:root{--bg:#1b1917;--fg:#eee;--muted:#aaa;--card:#24211e;--line:#3a3530}.top,.toc,.btn.alt{background:#24211e}nav a,.brand{color:var(--fg)}code{background:#333}.ph{background:#333}}
 
 .badge{display:inline-block;margin-top:6px;padding:2px 8px;border-radius:999px;background:#fff1e6;color:#c2410c;border:1px solid #fdba74;font-size:.75rem;font-weight:600}
